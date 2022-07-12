@@ -27,7 +27,7 @@ CONTENTFUL_ACCESS_TOKEN=givejkW9NU_xGGTZxME-xUXTHE-XMgg711codesj4pN
 
 1. Update the `.gitignore` file to ignore OS generated files/folders and files with sensitive data
 2. Add and commit your changes
-3. As you make changes to this project, be mindful of the requirements **(Requirements state the Pulll Request MUST EXCLUDE files with sensitive data)**.
+3. As you make changes to this project, be mindful of the requirements **(Requirements state the Pull Request MUST EXCLUDE files with sensitive data)**.
 4. Create a remote repository for this project on Github
 5. Push this repository from the command line to Github.
    **NOTE:**: When adding this repository to Github, you will need to replace the word `origin` with `destination` (or any other word you wish to use). This is because the remote repository you cloned is already using the name, `origin`
